@@ -4,7 +4,7 @@ MK bot v²
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 <p align="center">
-  <a href="https://github.com/hsjk448">
+  <a href="[https://github.com/hsjk448](https://github.com/hsjk448/jacksonmd)">
     <img alt="Mk bot logo" height="200" src="https://files.catbox.moe/vfv7n6.jpg">
   </a>
 </p>
@@ -12,7 +12,7 @@ MK bot v²
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 <p align="center">
-  <a href="https://github.com/hsjk448?tab=followers">
+  <a href="[https://github.com/hsjk448?tab=followers](https://github.com/hsjk448/jacksonmd)">
     <img src="https://img.shields.io/github/followers/XdKing2?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/hsjk448/jacksonmd/stargazers">
